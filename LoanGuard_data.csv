@@ -999,3 +999,9 @@ Applicant_ID,Applicant_Income,Coapplicant_Income,Employment_Status,Age,Marital_S
 998.0,15192.0,8433.0,Contract,48.0,Single,1.0,666.0,1.0,0.4,8581.0,41335.0,16203.0,24.0,Home,Rural,Graduate,Male,MNC,No
 999.0,9083.0,7380.0,Unemployed,50.0,Single,1.0,748.0,3.0,0.31,13491.0,8933.0,10290.0,36.0,Personal,Urban,Graduate,Male,Private,Yes
 1000.0,13093.0,2385.0,Salaried,23.0,Married,1.0,613.0,3.0,0.32,12436.0,25816.0,35818.0,48.0,Personal,Semiurban,Graduate,,Private,No
+1001,150000,95000,Salaried,45,Married,2,980,1,1.45,850000,1200000,450000,84,Home,Urban,Graduate,Male,Government,Yes
+1002,130000,80000,Self-Employed,52,Single,0,970,2,1.30,700000,950000,380000,72,Business,Urban,Post-Graduate,Male,Private,No
+1003,145000,0,Salaried,38,Married,1,990,0,1.48,920000,1400000,490000,84,Home,Urban,Graduate,Female,Government,Yes
+1004,150,10,Unemployed,22,Single,3,210,4,0.002,20,80,150,12,Personal,Rural,Under-Graduate,Male,Private,No
+1005,200,5,Unemployed,19,Single,2,225,5,0.001,15,60,120,12,Personal,Rural,Under-Graduate,Female,Private,No
+1006,180,0,Unemployed,21,Married,4,240,3,0.003,10,50,100,12,Personal,Rural,Under-Graduate,Male,Private,No
