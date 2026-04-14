@@ -1,3 +1,33 @@
 .virtual_documents/
 .ipynb_checkpoints/
 old files/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Model artifacts (generated locally)
+artifacts/
